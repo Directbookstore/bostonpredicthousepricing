@@ -9,4 +9,4 @@
 create new environment
 
 
-conda create -n ven python== 3.10.9 -y
+conda create -n ven python= 3.10.9 -y
